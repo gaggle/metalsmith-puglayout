@@ -1,0 +1,17 @@
+{
+  "name": "metalsmith-puglayout",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Lauridsen <mail@jonlauridsen.com>",
+  "license": "ISC",
+  "dependencies": {
+    "metalsmith-define": "^2.0.1",
+    "metalsmith-each": "^0.1.1",
+    "metalsmith-layouts": "^1.8.1",
+    "metalsmith-plugin-resolver": "git+https://github.com/gaggle/metalsmith-plugin-resolver.git"
+  }
+}
